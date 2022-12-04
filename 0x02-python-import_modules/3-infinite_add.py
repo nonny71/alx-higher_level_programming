@@ -8,4 +8,4 @@ if __name__ =='__main__':
      while index <= arg_count:
          sum += int(sys.argv[index])
          index += 1
-          print(sum)
+          print("{:d}".format(sum))
