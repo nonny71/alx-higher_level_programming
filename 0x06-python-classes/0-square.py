@@ -1,7 +1,9 @@
 #!/usr/bin/python3
-"0-square.py define"
+# 0-square.py
+# Brennan D Baraban <375@holbertonschool.com>
+"""Define a class Square."""
 
-class square:
-    """Class Samu
-    """
+
+class Square:
+    """Represent a square."""
     pass
