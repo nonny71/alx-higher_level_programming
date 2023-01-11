@@ -1,6 +1,13 @@
 #!/usr/bin/python3
+"""
+0-rectangle
+Contains class Rectangle
+An empty class
+"""
 
 
-class Rectangle:
-    """ write an empty class Rectangle that defines a rectangle"""
+class Rectangle():
+    """
+    Empty class rectangle
+    """
     pass
